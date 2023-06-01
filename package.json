@@ -1,0 +1,16 @@
+{
+  "name": "paket-uppgit-1-depend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-number": "^7.0.0",
+    "test-npm-package-liamsvahn": "^1.0.0"
+  }
+}
